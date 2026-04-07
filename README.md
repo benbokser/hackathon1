@@ -8,7 +8,8 @@ Python
 The project runs completely within the ProjectNotebook.ipynb Jupyter Notebook file. The file demonstrates use of the workout recommendation function. One can use that function within the file to produce additional workout recommendations by entering new lines of code calling the function with additional parameters.
 
 Dependencies:
-pandas, numpy, scipy, matplotlib, seaborn
+pandas, numpy, scipy, matplotlib, seaborn.
+
 The project is contained in the ProjectNotebook.ipynb file and uses the evan_fitness.csv file as a data source.
 To start the project, download ProjectNotebook.ipynb and evan_fitness.csv into the same folder, and run ProjectNotebook.ipynb in any program that supports Jupyter Notebooks.
 
